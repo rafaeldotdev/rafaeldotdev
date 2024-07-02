@@ -4,7 +4,7 @@
 
 <div style="display:flex">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldotdev&repo=galery-website)](https://github.com/rafaeldotdev/galery-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldotdev&repo=fone)](https://github.com/rafaeldotdev/fone)
+
 </div>
 <p>Tecnologias e ferramentas</p>
  <div style="display: inline_block">
