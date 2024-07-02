@@ -2,6 +2,7 @@
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeldotdev&show_icons=true&theme=transparent)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldotdev&repo=galery-website)](https://github.com/rafaeldotdev/galery-website)
 
 <p>Tecnologias e ferramentas</p>
  <div style="display: inline_block">
