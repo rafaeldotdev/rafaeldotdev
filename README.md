@@ -2,10 +2,10 @@
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeldotdev&show_icons=true&theme=transparent)
 
-<div style="display:flex">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldotdev&repo=galery-website)](https://github.com/rafaeldotdev/galery-website)
 
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldotdev&repo=galery-website)](https://github.com/rafaeldotdev/galery-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldotdev&repo=fone)](https://github.com/rafaeldotdev/fone)
+
 <p>Tecnologias e ferramentas</p>
  <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
