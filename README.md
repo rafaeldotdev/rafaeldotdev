@@ -4,7 +4,7 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldotdev&repo=galery-website)](https://github.com/rafaeldotdev/galery-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldotdev&repo=fullstack-portifolio)](https://github.com/rafaeldotdev/fullstack-portifolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldotdev&repo=fullstack-portfolio)](https://github.com/rafaeldotdev/fullstack-portfolio)
 
 <p>Tecnologias e ferramentas</p>
  <div style="display: inline_block">
