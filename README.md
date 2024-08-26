@@ -3,7 +3,7 @@
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeldotdev&show_icons=true&theme=transparent)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldotdev&repo=galery-website)](https://github.com/rafaeldotdev/galery-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldotdev&repo=currency-converter-in-JavaScript)](https://github.com/rafaeldotdev/currency-converter-in-JavaScript)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldotdev&repo=fullstack-portfolio)](https://github.com/rafaeldotdev/fullstack-portfolio)
 
 <p>Tecnologias e ferramentas</p>
