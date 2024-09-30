@@ -4,7 +4,7 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldotdev&repo=currency-converter-in-JavaScript)](https://github.com/rafaeldotdev/currency-converter-in-JavaScript)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldotdev&repo=fullstack-portfolio)](https://github.com/rafaeldotdev/fullstack-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldotdev&repo=estudaPlus)](https://github.com/rafaeldotdev/estudaPlus) 
 
 <p>Tecnologias e ferramentas</p>
  <div style="display: inline_block">
